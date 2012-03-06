@@ -1,0 +1,2 @@
+2012-02-27 12:37:12,849 ERROR ca.utoronto.msrg.padres.client.Client.connect(Client.java:596) Could not connect to broker: ca.utoronto.msrg.padres.common.comm.CommunicationException: Connection to socket://10.105.11.25:10001/BrokerB failed after 10 attempts.
+Cause: Connection refused

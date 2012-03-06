@@ -1,0 +1,19 @@
+2012-02-24 12:50:55,955 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:115) Connecting to remote broker BrokerA
+2012-02-24 12:50:55,966 WARN  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:141) Connection attempt 1/5 failed:
+java.net.ConnectException: Connection refused
+2012-02-24 12:50:55,967 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:121) waiting for 1000ms
+2012-02-24 12:50:56,970 WARN  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:141) Connection attempt 2/5 failed:
+java.net.ConnectException: Connection refused
+2012-02-24 12:50:56,971 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:121) waiting for 1000ms
+2012-02-24 12:50:57,973 WARN  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:141) Connection attempt 3/5 failed:
+java.net.ConnectException: Connection refused
+2012-02-24 12:50:57,974 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:121) waiting for 1000ms
+2012-02-24 12:50:58,976 WARN  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:141) Connection attempt 4/5 failed:
+java.net.ConnectException: Connection refused
+2012-02-24 12:50:58,977 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:121) waiting for 1000ms
+2012-02-24 12:50:59,980 WARN  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:141) Connection attempt 5/5 failed:
+java.net.ConnectException: Connection refused
+2012-02-24 12:50:59,981 ERROR ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:147) Connection to socket://10.105.11.24:8101/BrokerA failed after 5 attempts.
+Cause: Connection refusedjava.net.ConnectException: Connection refused
+2012-02-24 12:51:21,764 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:115) Connecting to remote broker BrokerB
+2012-02-24 12:51:21,771 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:151) Connected to socket://10.129.41.34:8101/BrokerB

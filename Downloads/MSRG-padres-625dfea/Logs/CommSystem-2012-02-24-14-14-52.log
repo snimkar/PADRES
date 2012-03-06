@@ -1,0 +1,2 @@
+2012-02-24 14:14:52,828 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:115) Connecting to remote broker BrokerVivek
+2012-02-24 14:14:52,854 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:151) Connected to socket://10.105.11.25:1099/BrokerVivek

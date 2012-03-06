@@ -1,0 +1,2 @@
+2012-02-24 13:15:28,300 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:115) Connecting to remote broker BrokerB
+2012-02-24 13:15:28,336 INFO  ca.utoronto.msrg.padres.common.comm.socket.SocketMessageSender.createConnection(SocketMessageSender.java:151) Connected to socket://10.129.41.34:8101/BrokerB

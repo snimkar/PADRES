@@ -1,0 +1,6 @@
+2012-02-23 15:27:03,974 ERROR ca.utoronto.msrg.padres.broker.monitor.SystemMonitor.getBrokerInfo(SystemMonitor.java:851) Null value in the payload of BrokerInfo message : java.lang.NullPointerException
+2012-02-23 15:27:27,611 WARN  ca.utoronto.msrg.padres.broker.brokercore.BrokerCore.initNeighborConnections(BrokerCore.java:453) Here is an exception : 
+java.lang.Exception: Missing remoteBrokers key or remoteBrokers value in the property file.
+	at ca.utoronto.msrg.padres.broker.brokercore.BrokerCore.initNeighborConnections(BrokerCore.java:453)
+	at ca.utoronto.msrg.padres.broker.brokercore.BrokerCore.initialize(BrokerCore.java:224)
+	at ca.utoronto.msrg.padres.broker.brokercore.BrokerCore.main(BrokerCore.java:789)

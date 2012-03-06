@@ -1,0 +1,4 @@
+2012-02-29 14:30:03,040 INFO  ca.utoronto.msrg.padres.common.comm.rmi.RMIMessageSender.connect(RMIMessageSender.java:87) Connecting to remote broker Broker1
+2012-02-29 14:30:03,362 INFO  ca.utoronto.msrg.padres.common.comm.rmi.RMIMessageSender.connect(RMIMessageSender.java:123) Connected to rmi://10.105.11.27:10001/Broker1
+2012-02-29 14:30:03,391 ERROR ca.utoronto.msrg.padres.common.comm.rmi.RMIMessageSender.connect(RMIMessageSender.java:136) Failed to register RMI Message Listenerjava.rmi.ConnectException: Connection refused to host: 127.0.1.1; nested exception is: 
+	java.net.ConnectException: Connection refused
